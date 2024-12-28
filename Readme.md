@@ -3,7 +3,9 @@ Made for server1
 
 - [**Ports**](Ports.md): Informatie over poorten
 
-- [**Requirements**](Ports.md): Informatie over depencies en software dat dit gebruikt
+- [**Requirements**](Requirements.md): Informatie over depencies en software dat dit gebruikt
+
+- [**Nginx Info**](/Nginx/Info.md): Informatie over de nginx config en beheren
 
 ### Hosted:
 
